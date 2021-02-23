@@ -1,0 +1,13 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+.myliste{
+    display: flex;
+    justify-content: space-around;
+    background-color :cornsilk ;
+    align-items: center;    
+}
+body {
+
+}
